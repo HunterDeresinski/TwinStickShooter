@@ -1,4 +1,4 @@
-# [Project Name] - Twin-Stick Shooter Roguelike
+#Twin-Stick Shooter Roguelike
 
 A fast-paced, wave-based twin-stick shooter built with Unity. Blast through randomized enemy waves, unlock unique upgrades, and survive as long as you can in a dynamic roguelike arena!
 
